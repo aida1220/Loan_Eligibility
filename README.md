@@ -28,7 +28,7 @@ conda activate nom_de_ton_env ``` </pre>
 
 ## Structure du projet 
 
-```Projet_DataScience_Loan_Eligibility/
+``` Projet_DataScience_Loan_Eligibility/
 ├── Classification_loan.ipynb
 ├── Regression_.ipynb
 ├── README.md
