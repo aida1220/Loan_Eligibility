@@ -33,5 +33,5 @@ conda activate nom_de_ton_env ``` </pre>
 ├── Regression_.ipynb
 ├── README.md
 ├── environment.yml
-└── dataset_loan_eligibility```
+└── dataset_loan_eligibility/```
 
