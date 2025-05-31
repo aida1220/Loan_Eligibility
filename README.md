@@ -15,13 +15,23 @@ Le projet suit une approche complète de data science :
 ## Données
 
 Les données utilisées proviennent de Kaggle :  
-[Lien vers le dataset](https://www.kaggle.com/...)  <!-- Remplace ce lien par le vrai ! -->
+https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset/data
 
-Pour exécuter les notebooks, télécharge le fichier de données depuis Kaggle et place-le dans le dossier `data/` du projet.
+Pour exécuter les notebooks, télécharge le fichier de données depuis Kaggle et place-le dans le dossier du projet.
 
 ## Environnement
 
 Un fichier `environment.yml` est fourni pour créer l’environnement virtuel nécessaire.  
 Pour l’utiliser, exécutez ces commandes dans votre terminal :
+<pre>```conda env create -f environment.yml
+conda activate nom_de_ton_env ``` </pre>
 
-<pre> ## Structure du projet ``` projet-pret-bancaire/ ├── classification_notebook.ipynb ├── regression_notebook.ipynb ├── README.md ├── environment.yml └── data/ └── base_de_donnees.csv # à placer ici après téléchargement ``` </pre>
+## Structure du projet 
+
+Projet_DataScience_Loan_Eligibility/
+├── Classification_loan.ipynb
+├── Regression_.ipynb
+├── README.md
+├── environment.yml
+└── dataset_loan_eligibility
+
