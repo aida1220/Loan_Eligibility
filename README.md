@@ -37,3 +37,29 @@ Projet_DataScience_Loan_Eligibility/
 └── dataset_loan_eligibility/
 ```
 
+## Utilisation
+
+1. Clonez le dépôt ou téléchargez-le.
+2. Créez et activez l’environnement virtuel comme indiqué ci-dessus.
+3. Ouvrez les notebooks Jupyter :
+   - `Classification_loan.ipynb` pour la classification
+   - `Regression_.ipynb` pour la régression
+4. Exécutez les cellules pour reproduire l’analyse et les résultats.
+
+---
+
+## Remarques
+
+- Ce projet a été réalisé dans le cadre du module de Machine Learning de notre formation en Data Science.
+- Les données doivent être placées dans le dossier de votre projet par exemple de ce cas precis  `dataset_loan_eligibility/`.
+- N’hésitez pas à adapter le code ou à proposer des améliorations.
+
+---
+
+## Contact
+
+Pour toute question, contactez : aida.diack@reseau.eseo.fr
+
+
+
+
